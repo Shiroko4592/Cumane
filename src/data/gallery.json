@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Gallery 1",
+    "tags": ["schoolgirl", "comedy"],
+    "thumbnail": "/images/sample1.jpg",
+    "description": "A fun manga gallery.",
+    "images": ["/images/sample1.jpg", "/images/sample1-2.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Sample Gallery 2",
+    "tags": ["action", "fantasy"],
+    "thumbnail": "/images/sample2.jpg",
+    "description": "Exciting fantasy scenes.",
+    "images": ["/images/sample2.jpg", "/images/sample2-2.jpg"]
+  }
+]
